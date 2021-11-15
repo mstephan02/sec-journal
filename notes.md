@@ -1,0 +1,13 @@
+## Notes
+  - [GIT](notes/01-git.md)  
+  - [BIOS](notes/02-css.md)  
+  - [Operating Systems](notes/03-os.md)  
+  - [Bootstrap](notes/04-bootstrap.md)  
+  - [JavaScript](notes/05-javascript.md)  
+  - [MVC](notes/06-mvc.md)  
+  - [Observables](notes/07-observables.md)  
+  - [Async/Await](notes/08-async.md)  
+  - [Node](notes/09-node.md)  
+  - [Vue](notes/10-vue.md)  
+  - [CSharp](notes/11-csharp.md)  
+  - [SQL](notes/12-sql.md)  
